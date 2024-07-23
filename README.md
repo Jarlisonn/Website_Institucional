@@ -8,7 +8,6 @@ O projeto está estruturado da seguinte forma:
 
  - index.html: Página inicial do site.
  - styles/: Pasta contendo arquivos CSS para estilização do site.
- - scripts/: Pasta contendo arquivos JavaScript para funcionalidades adicionais.
  - images/: Pasta com imagens utilizadas no site.
    
 # O website inclui as seguintes seções principais:

@@ -22,7 +22,6 @@ O website foi desenvolvido utilizando as seguintes tecnologias:
 
  - HTML5: Estruturação do conteúdo das páginas.
  - CSS3: Estilização e design responsivo.
- - 
 # Como Contribuir
 Se desejar contribuir com este projeto, siga os passos abaixo:
 
